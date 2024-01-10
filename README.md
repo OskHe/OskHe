@@ -1,3 +1,5 @@
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,blender,css,discord,eclipse,git,github,html,idea,instagram,java,latex,linux,md,mysql,nginx,php,raspberrypi,stackoverflow,unity,vim,vscode,wordpress)](https://skillicons.dev)
+
 ### Hi there 👋
 
 <!--
